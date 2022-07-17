@@ -1,7 +1,7 @@
 # Guía para la declaración mensual del formulario F29
 
 1. Entrar a `mi sii` con cuenta de empresa.
-2. Ir a `Servicios Online` &#10132; `Impuestos mensuales` &#10132; `Declaración mensual (F29)` &#10132; [Declara IVA (F29)](https://www4.sii.cl/propuestaf29ui/index.html#/default)
+2. Ir a `Servicios Online` &#10132; `Impuestos mensuales` &#10132; `Declaración mensual (F29)` &#10132; [Declarar IVA (F29)](https://www4.sii.cl/propuestaf29ui/index.html#/default)
 3. Aparece el mes sobre el cual hay que hacer la declaración. Darle a `Aceptar`
 4. Luego, darle a `Continuar` y `Confirmar`. Esperar que carga y darle e `Enviar` y luego `Confirmar declaración`.
 5. Darle a `Finalizar`
